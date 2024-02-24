@@ -1,6 +1,6 @@
 # This is a todolist with e-mail notifications
 
-![Image](https://ibb.co/GJBS40Q)
+![Image](https://ibb.co/GJBS40Q](https://github.com/DmitriiGoro/To-do-list/blob/main/src/imgs/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-02-24%20%D0%B2%2010.09.57.png)
 
 ## Available Scripts
 
