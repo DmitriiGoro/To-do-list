@@ -1,6 +1,6 @@
 # This is a todolist with e-mail notifications
 
-![](https://ibb.co/GJBS40Q)
+![Image](https://ibb.co/GJBS40Q)
 
 ## Available Scripts
 
