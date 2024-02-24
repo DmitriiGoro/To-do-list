@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This is a todolist with e-mail notifications
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://ibb.co/GJBS40Q)
 
 ## Available Scripts
 
